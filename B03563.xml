@@ -1,0 +1,1110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general bill of all the christnings and burials, from the 13. of December, 1692. To the 19. of December, 1693. According to the report made to the King and Queen their Most Excellent Majesties: / by the Company of Parish-Clerks of London, &amp;c.</title>
+            <author>Worshipful Company of Parish Clerks.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03563</idno>
+            <idno type="STC">Wing G494F</idno>
+            <idno type="STC">ESTC R177364</idno>
+            <idno type="EEBO-CITATION">49520896</idno>
+            <idno type="OCLC">ocm 49520896</idno>
+            <idno type="VID">174137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174137)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2666:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general bill of all the christnings and burials, from the 13. of December, 1692. To the 19. of December, 1693. According to the report made to the King and Queen their Most Excellent Majesties: / by the Company of Parish-Clerks of London, &amp;c.</title>
+                  <author>Worshipful Company of Parish Clerks.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Childbirth --  Statistics --  England --  London --  Early works to 1800.</term>
+               <term>Mortality --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  Statistics, Vital --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="bill_of_mortality">
+            <pb facs="tcp:174137:1"/>
+            <head>A General Bill of all the <hi>Chriſtnings</hi> and <hi>Burials,</hi> from the 13. of <hi>December,</hi> 1692. to the 19. of <hi>December,</hi> 1693.</head>
+            <head>According to the Report made to the <hi>KING</hi> and <hi>Q<g ref="char:V">Ʋ</g>EEN</hi> Their Moſt Excellent MAJESTIES: <hi>By the Company of Pariſh-Clerks of</hi> London, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <table>
+                  <row role="label">
+                     <cell> </cell>
+                     <cell>
+                        <hi>Buri.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Pl.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> ALban Woodſtreet</cell>
+                     <cell>31</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Barkin</cell>
+                     <cell>80</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Breadſtreet</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Great</cell>
+                     <cell>39</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Honilane</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Leſs</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Lumbardſtreet</cell>
+                     <cell>32</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Staining</cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows the Wall</cell>
+                     <cell>68</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Alphage</cell>
+                     <cell>37</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Andrew Hubbard</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Andrew Underſhaft</cell>
+                     <cell>46</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Andrew Wardrobe</cell>
+                     <cell>42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Ann Alderſgate</cell>
+                     <cell>47</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Ann Blackfriers</cell>
+                     <cell>129</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Antholins Pariſh</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Auſtins Pariſh</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bartholom. Exchange</cell>
+                     <cell>22</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bennet Fynck</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bennet Grace church</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bennet Paulſwharf</cell>
+                     <cell>44</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bennet Sherehog</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Botolph Billingſgate</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Chriſts Church</cell>
+                     <cell>104</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Chriſtophers</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Clement Eaſtcheap</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Dionis Backchurch</cell>
+                     <cell>33</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Dunſtans Eaſt</cell>
+                     <cell>69</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Edmund Lumbardſtr.</cell>
+                     <cell>39</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Ethelborough</cell>
+                     <cell>34</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Faiths</cell>
+                     <cell>48</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Gabriel Fenchurch</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> George Botolphlane</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Gregories <hi>by</hi> S<hi rend="sup">t</hi> Pauls</cell>
+                     <cell>89</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Hellen</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> James Dukes place</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> James Garlickhithe</cell>
+                     <cell>35</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> John Baptiſt</cell>
+                     <cell>23</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> John Evangeliſt</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> John Zachary</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Katharine Coleman</cell>
+                     <cell>42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Katharine Creechurch</cell>
+                     <cell>65</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Laurence Jewry</cell>
+                     <cell>60</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Laurence Pountney</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Leonard Eaſtcheap</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Leonard Foſterlane</cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Magnus Pariſh</cell>
+                     <cell>32</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Margaret Lothbury</cell>
+                     <cell>31</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Margaret Moſes</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Margaret Newfiſhſtr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Margaret Pattons</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Martins Ironmongerl.</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Martins Ludgate</cell>
+                     <cell>43</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Martins Orgars</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Martins Outwich</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Martins Vintrey</cell>
+                     <cell>42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Abchurch</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Aldermanbury</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Aldermary</cell>
+                     <cell>31</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary le Bow</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Bothaw</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Colechurch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Hill</cell>
+                     <cell>27</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Magd. Milkſtreet</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Magd. Oldfiſhſtr.</cell>
+                     <cell>33</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Mounthaw</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Summerſet</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Stainings</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Woolchurch</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Woolnoth</cell>
+                     <cell>42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Matthew Fridayſtreet.</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Baſſiſhaw</cell>
+                     <cell>36</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Cornhil</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Crookedlane</cell>
+                     <cell>29</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Queenhith</cell>
+                     <cell>36</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Quern</cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Royal</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Michael Woodſtreet</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mildred Breadſtreet</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mildred Poultrey</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Nicholas Acons</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Nicholas Coleabby</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Nicholas Olaves</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Olave Hartſtreet</cell>
+                     <cell>52</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Olave Jewry</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Olave Silverſtreet</cell>
+                     <cell>34</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Pancras Soperlane</cell>
+                     <cell>7</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Peter Cheap</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Peter Cornhil</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Peter Paulſwharf</cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Peter Poor</cell>
+                     <cell>21</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Steven Colemanſtreet</cell>
+                     <cell>90</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Steven Walbrook</cell>
+                     <cell>28</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Swithin</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Thomas Apoſtle</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Trinity Pariſh</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Vedaſt <hi>alias</hi> Foſters</cell>
+                     <cell>41</cell>
+                     <cell> </cell>
+                  </row>
+                  <trailer>Chriſtned in the 97 Pariſhes within the Walls—2106 Buried—2740 Plague—0</trailer>
+               </table>
+               <table>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Andrew Holborn</cell>
+                     <cell>940</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bartholomew Great</cell>
+                     <cell>78</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bartholomew Leſs</cell>
+                     <cell>35</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Bridget</cell>
+                     <cell>307</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bridewel Precinct</cell>
+                     <cell>33</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Botolph Alderſgate</cell>
+                     <cell>177</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Botolph Aldgate</cell>
+                     <cell>555</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Botolph Biſhopſgate</cell>
+                     <cell>499</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Dunſtan Weſt</cell>
+                     <cell>242</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> George Southwark</cell>
+                     <cell>402</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Giles Cripplegate</cell>
+                     <cell>1342</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Olave Southwark</cell>
+                     <cell>741</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Saviour Southwark</cell>
+                     <cell>567</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Sepulchres Pariſh</cell>
+                     <cell>543</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Thomas Southwark</cell>
+                     <cell>96</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Trinity Minories</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>At the Peſthouſe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <trailer>Chriſtned in the 16 Pariſhes without the Walls—5050 Buried—6582 Plague—0</trailer>
+               </table>
+               <table>
+                  <row>
+                     <cell>Chriſts Church</cell>
+                     <cell>134</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Dunſtan <hi>at</hi> Stepney</cell>
+                     <cell>2024</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Giles in the Fields</cell>
+                     <cell>1209</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> James Clerkenwel</cell>
+                     <cell>393</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> John <hi>at</hi> Hackney</cell>
+                     <cell>77</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Kathar. <hi>near the</hi> Tower</cell>
+                     <cell>181</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lambeth Pariſh</cell>
+                     <cell>306</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Leonard Shoreditch</cell>
+                     <cell>484</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Iſlington</cell>
+                     <cell>150</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Magdalen Bermondſey</cell>
+                     <cell>387</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Newington</cell>
+                     <cell>249</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Whitechappel</cell>
+                     <cell>1048</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Paul Shadwel</cell>
+                     <cell>428</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Rotherhith Pariſh</cell>
+                     <cell>152</cell>
+                     <cell> </cell>
+                  </row>
+                  <trailer>Chriſtned in the 14 Out-Pariſhes in Middleſex and Surrey—5017 Buried—7222 Plague—0</trailer>
+               </table>
+               <table>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Ann Weſtminſter</cell>
+                     <cell>426</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Clement Danes</cell>
+                     <cell>445</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> James Weſtminſter</cell>
+                     <cell>922</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Margaret Weſtminſter</cell>
+                     <cell>934</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Martins in the Fields</cell>
+                     <cell>1365</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Mary Savoy</cell>
+                     <cell>130</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>S<hi rend="sup">t</hi> Paul Covent Garden</cell>
+                     <cell>193</cell>
+                     <cell> </cell>
+                  </row>
+                  <trailer>Chriſtned in the 7 Pariſhes in the City and Liberties of Weſtminſt—2986 Buried—4415 Plague-0</trailer>
+               </table>
+               <table>
+                  <row>
+                     <cell>A Bortive and Stilborn</cell>
+                     <cell>539</cell>
+                  </row>
+                  <row>
+                     <cell>Aged and Bedridden</cell>
+                     <cell>1262</cell>
+                  </row>
+                  <row>
+                     <cell>Ague and Feaver</cell>
+                     <cell>3211</cell>
+                  </row>
+                  <row>
+                     <cell>Apoplexy and Suddenly</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>Bleeding, Bloodyflux &amp; Flux</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Burnt and Scalded</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Burſten and Rupture</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Calenture</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Cancer, Canker and Thruſh</cell>
+                     <cell>132</cell>
+                  </row>
+                  <row>
+                     <cell>Childbed</cell>
+                     <cell>224</cell>
+                  </row>
+                  <row>
+                     <cell>Chriſomes and Infants</cell>
+                     <cell>235</cell>
+                  </row>
+                  <row>
+                     <cell>Colick and Wind</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Conſumption and Tiſſick</cell>
+                     <cell>3546</cell>
+                  </row>
+                  <row>
+                     <cell>Convulſion</cell>
+                     <cell>4218</cell>
+                  </row>
+                  <row>
+                     <cell>Cough, and Chincough</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Cut of the Stone and Stone</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>Diabetes</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Diſtracted and Lunatick</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Dropſie and Tympany</cell>
+                     <cell>608</cell>
+                  </row>
+                  <row>
+                     <cell>Drowned</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Evil</cell>
+                     <cell>83</cell>
+                  </row>
+                  <row>
+                     <cell>Exceſſive Drinking</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Executed</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Falling Sickneſs</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Flox, Small Pox and Meaſles.</cell>
+                     <cell>1164</cell>
+                  </row>
+                  <row>
+                     <cell>Found dead in the ſtreets, &amp;c.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>French Pox</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>Gangrene and Fiſtula</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Gout and Sciatica</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Grief</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Griping in the Guts</cell>
+                     <cell>1871</cell>
+                  </row>
+                  <row>
+                     <cell>Hang'd and made away them<g ref="char:EOLhyphen"/>ſelves</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Headach and Megrim</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Headmoldſhot</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Jaundies</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Impoſthume</cell>
+                     <cell>61</cell>
+                  </row>
+                  <row>
+                     <cell>Kild by ſeveral accidents</cell>
+                     <cell>85</cell>
+                  </row>
+                  <row>
+                     <cell>Leproſie</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Lethargy</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Livergrown</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Murthered</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Overlaid</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>Palſie</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Pluriſie</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Poiſoned</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Quinſie</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Rheumatiſm</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Rickets</cell>
+                     <cell>278</cell>
+                  </row>
+                  <row>
+                     <cell>Riſing of the Lights</cell>
+                     <cell>132</cell>
+                  </row>
+                  <row>
+                     <cell>St. Anthony's Fire</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Scald head</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Scurvy</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Shot</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Smothered</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Spleen</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Spotted Feaver and Purples</cell>
+                     <cell>199</cell>
+                  </row>
+                  <row>
+                     <cell>Stab'd</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Stopping in the Stomach</cell>
+                     <cell>485</cell>
+                  </row>
+                  <row>
+                     <cell>Strangury</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Surfeit</cell>
+                     <cell>187</cell>
+                  </row>
+                  <row>
+                     <cell>Teeth</cell>
+                     <cell>1364</cell>
+                  </row>
+                  <row>
+                     <cell>Ulcer</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>Vomiting</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Worms</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Wounded</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <list>
+                  <item>CHRISTNED
+<list>
+                        <item>Males—7676</item>
+                        <item>Females—7483</item>
+                        <item>In all—15159</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <item>BURIED</item>
+                        <item>Males—10655</item>
+                        <item>Females—10304</item>
+                        <item>In all—20959</item>
+                     </list>
+                  </item>
+                  <item>PLAGUE—0</item>
+               </list>
+            </p>
+            <p>Increaſed in the Burials this year—85</p>
+            <pb facs="tcp:174137:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
